@@ -1,8 +1,10 @@
-// Simple C++ program to display "Hello World"
+// C++ program that displays "a message"
 
 #include <iostream>
 
 int main (){
-    printf("oi gente... deu certo");
+
+    // prints hello world 
+    std::cout << "Learning to work with version control \n" << "Installed Git on Windows \n" ;
     return 0;
 }
